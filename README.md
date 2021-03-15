@@ -82,3 +82,9 @@ Está com dúvidas (ou curioso 👀) para ver como deve ficar a aplicação ao f
 # 📅 Entrega
 
 Esse desafio deve ser entregue a partir da plataforma da Rocketseat. Envie o link do repositório que você fez suas alterações. Após concluir o desafio, além de ter mandado o código para o GitHub, fazer um post no Linkedin é uma boa forma de demonstrar seus conhecimentos e esforços para evoluir na sua carreira para oportunidades futuras.
+
+# Solução do desafio
+
+Caso você queira ver como resolver o desafio, fizemos um vídeo explicando o passo a passo para cumprir com todos os requisitos da aplicação:
+
+[https://youtu.be/qFuxsmgQs4Q](https://youtu.be/qFuxsmgQs4Q)
