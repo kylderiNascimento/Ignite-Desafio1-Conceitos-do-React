@@ -21,6 +21,18 @@ Você deve criar as funcionalidades para as três funções presentes nesse arqu
 
 ## Resolução
 
+Sabendo que:
+```jsx
+interface Task {
+  id: number;
+  title: string;
+  isComplete: boolean;
+}
+
+const [tasks, setTasks] = useState<Task[]>([]);
+const [newTaskTitle, setNewTaskTitle] = useState('');
+```
+
 RESOLVIDO: **handleCreateNewTask**
 
 ```jsx
