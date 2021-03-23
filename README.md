@@ -6,3 +6,10 @@ Link do desafio: https://www.notion.so/Desafio-01-Conceitos-do-React-51e4099a6e2
 Gravei um passo a passo da resolução desse desafio.
 
 https://youtu.be/KjPh6Rm1zwk?list=PLjm0b1mZwR0fZcmlIlajFGliSqyPk8lmN
+
+
+# Solução do desafio
+
+Caso você queira ver como resolver o desafio, fizemos um vídeo explicando o passo a passo para cumprir com todos os requisitos da aplicação:
+
+[https://youtu.be/qFuxsmgQs4Q](https://youtu.be/qFuxsmgQs4Q)
